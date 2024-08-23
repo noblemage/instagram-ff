@@ -1,2 +1,2 @@
 # instagram-ff
-A small python script to check if following = followers on instagram for the people who care
+A small python script that uses [Instaloader](https://github.com/instaloader/instaloader) to run basic commands in a more simple way.
